@@ -3,4 +3,6 @@ panda.
 air conditioner.
 toilet paper.
 tea.
+botany.
+wind.
 
