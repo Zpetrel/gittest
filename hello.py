@@ -1,3 +1,4 @@
 
-print('helloworld')
+print('helloworld').
+print('study').
 
